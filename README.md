@@ -10,7 +10,7 @@ BELLO!!.PEEPS... i'm a complete beginner in coding and enginneering field.<br>Ju
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NIGHTFURY609&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact&size_weight=0.3&count_weight=0.5&exclude_repo=js30-clock)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NIGHTFURY609&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
@@ -19,7 +19,7 @@ BELLO!!.PEEPS... i'm a complete beginner in coding and enginneering field.<br>Ju
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=highcontrast)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NIGHTFURY609&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NIGHTFURY609&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&order_by=contributions)
 
 ---
 ![](https://komarev.com/ghpvc/?username=NIGHTFURY609&label=Profile%20views&color=0e75b6&style=flat)
