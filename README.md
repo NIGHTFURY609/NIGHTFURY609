@@ -10,7 +10,16 @@ BELLO!!.PEEPS... i'm a complete beginner in coding and enginneering field.<br>Ju
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
+
+
+
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NIGHTFURY609&theme=highcontrast&hide_border=true)<br/>
+
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact&size_weight=0.3&count_weight=0.5&exclude_repo=js30-clock)
 
