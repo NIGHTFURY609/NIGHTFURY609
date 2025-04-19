@@ -19,7 +19,7 @@ BELLO!!.PEEPS... i'm a complete beginner in coding and enginneering field.<br>Ju
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=highcontrast)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NIGHTFURY609&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&order_by=contributions)
+![](https://github-readme-stats-6wx7.vercel.app/api?username=NIGHTFURY609&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&order_by=contributions)
 
 ---
 ![](https://komarev.com/ghpvc/?username=NIGHTFURY609&label=Profile%20views&color=0e75b6&style=flat)
