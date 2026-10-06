@@ -1,3 +1,13 @@
+
+
+<div align="center">
+  <img
+    src="./assests/banner-2.gif"
+    alt="Jeswin Christie Banner"
+    width="100%"
+  />
+</div>
+
 # 💫 About Me:
 BELLO!!.PEEPS... i'm a complete beginner in coding and enginneering field.<br>Just started btech 2024-2028<br>languages - C++,pHp,java,HTML,python
 check out my website [jeswin christie](https://jeswinchristie.framer.website/)
@@ -8,23 +18,8 @@ check out my website [jeswin christie](https://jeswinchristie.framer.website/)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats-6wx7.vercel.app/api?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=21900)<br>
-[![GitHub Streak](https://github-readme-streak-stats2-taupe.vercel.app?user=NIGHTFURY609&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIGHTFURY609&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact&size_weight=0.3&count_weight=0.5&exclude_repo=js30-clock)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NIGHTFURY609&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=highcontrast)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NIGHTFURY609&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&order_by=contributions)
-
-![Now Playing](https://readmeme.eu.cc/api/music.svg?musicSong=Anti-Hero&musicArtist=Taylor+Swift&musicListen=Now+Playing&musicPlatform=spotify&theme=forest)
-
-![Skyline & Tides](https://readmeme.eu.cc/api/skyline.svg?skylineStyle=banner&timezone=Asia%2FKolkata&avatar=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fcoder-png-coder-png-file-354.png&name=Sanjay&role=Full-Stack+Developer&bio=Building+cool+things+with+code.+Open-source+enthusiast.&skills=HTML%2CJS%2CREACT%2CNODE%2CPYTHON%2CGIT%2CSQL&handle=cu-sanjay&label=Ocean+View)
+![Now Playing](https://readmeme.eu.cc/api/music.svg?musicSong=Dracula&musicArtist=Tame+Impala&musicListen=Now+Playing&musicPlatform=spotify&theme=forest)
 
 ---
 ![](https://komarev.com/ghpvc/?username=NIGHTFURY609&label=Profile%20views&color=0e75b6&style=flat)
