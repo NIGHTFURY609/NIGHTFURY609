@@ -22,6 +22,10 @@ check out my website [jeswin christie](https://jeswinchristie.framer.website/)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NIGHTFURY609&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&order_by=contributions)
 
+![Now Playing](https://readmeme.eu.cc/api/music.svg?musicSong=Anti-Hero&musicArtist=Taylor+Swift&musicListen=Now+Playing&musicPlatform=spotify&theme=forest)
+
+![Skyline & Tides](https://readmeme.eu.cc/api/skyline.svg?skylineStyle=banner&time=680&timezone=Asia%2FKolkata&avatar=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fcoder-png-coder-png-file-354.png&name=Sanjay&role=Full-Stack+Developer&bio=Building+cool+things+with+code.+Open-source+enthusiast.&skills=HTML%2CJS%2CREACT%2CNODE%2CPYTHON%2CGIT%2CSQL&handle=cu-sanjay&label=Ocean+View)
+
 ---
 ![](https://komarev.com/ghpvc/?username=NIGHTFURY609&label=Profile%20views&color=0e75b6&style=flat)
 
